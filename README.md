@@ -1,16 +1,15 @@
-# dw9_delivery_app
+<h1 align='center'>Vakinha Burguer</h1> 
+<p align='center'> 🚀  Aplicativo de delivery desenvolvido na dart week-9
 
-A new Flutter project.
+## :computer: Sobre o aplicativo
 
-## Getting Started
+O VakinhaBurger é um aplicativo de delivery, que possui as funcionalidades de adição e exclusão de produtos, e uma página de visualização dos detalhes do produtos escolhidos, com algumas opções fictícias de pagamento.
 
-This project is a starting point for a Flutter application.
+## :hammer: Ferramentas
 
-A few resources to get you started if this is your first Flutter project:
+- Dart
+- Flutter
+- Provider
+- Bloc
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 👀 Preview
