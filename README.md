@@ -13,3 +13,6 @@ O VakinhaBurger é um aplicativo de delivery, que possui as funcionalidades de a
 - Bloc
 
 ## 👀 Preview
+  
+https://user-images.githubusercontent.com/82070562/221586065-5fcb47cf-f6fd-47f4-8026-d1d75ba7c12b.mp4
+
